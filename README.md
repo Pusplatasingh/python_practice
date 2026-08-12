@@ -22,7 +22,7 @@ A collection of Jupyter notebooks where I practice core Python concepts — from
 
 ## 🎯 Purpose
 
-This repo is where I experiment and reinforce concepts while learning Python — not polished projects, just consistent, hands-on practice.
+This repo is where I experiment and reinforce concepts while learning Python not polished projects, just consistent, hands-on practice. Adding some basic fundamental to know before starting python coding practice.
 
 ## 🛠️ Tech
 
